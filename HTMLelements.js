@@ -15,3 +15,5 @@ populateMainTable();
 for(const box of outPutDigitBoxes) {
     box.disabled='true';
 }
+
+
